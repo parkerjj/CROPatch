@@ -1,37 +1,37 @@
 @ECHO OFF 
-title å¿ƒæœ¯ç‰Œåå…¨å¤§è¡¥è‡ªåŠ¨æ›´æ–°å™¨ã€€
+title ÐÄÊõÅÆÊ®È«´ó²¹×Ô¶¯¸üÐÂÆ÷¡¡
 @echo.
 @echo.
-@echo.ã€€ã€€ã€€
-@echo       â–â–‚â–„â–ƒâ–‚â–â–
-@echo            â—¥â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ—£                                  â–ˆ        â—¢
-@echo                â–”â–ˆâ—¤â–”â–”â—¥â—£                                â–ˆ      â—¢â—¤
-@echo                  â–ˆ        â–ˆ                                â–‰    â—¢â—¤
-@echo                  â–ˆâ–â–‚â–ƒâ–ˆâ—¤                                â–‰  â—¢â—¤
-@echo            â–‚â–…â–†â–ˆâ–ˆâ–ˆâ–ˆâ—¤                              â—â—â–Šâ—¢â—¤
-@echo                  â–ˆâ—¥â—£  â—¢â–ˆâ—£â—¢â–ˆâ—£â–ˆâ—£â–ˆâ—¢â–ˆâ—£â—¢â–ˆâ—£â—¢â–ˆâ—£â–ˆâ—¤
-@echo                  â–‰  â—¥â—£â–ˆâ–ƒâ–ˆâ–ˆ  â–„â–ˆâ–ˆâ–ˆâ–ˆâ–ƒâ–ˆâ–ˆâ–ƒâ—¤â–ˆ  â–ˆâ–ˆâ—£
-@echo                  â–Š    â—¥â–ˆ  â–ˆâ—¥â–ˆâ—¤â–ˆâ—¥â–ˆâ–ˆ  â–ˆâ–ˆâ—¥â—£â—¥â–ˆâ—¤â–Œâ—¥â—£
-@echo                  â–‹     â–â–â–â–â–â–â–â–â–â–â–â–â–â–â–â–â–â– â–Œ  â—¥â—£
-@echo                  â–Ž              RAGNAROK CRO PATCH          â–    â—¥â—£
-@echo                  â–     â–”â–”â–”â–”â–”â–”â–”â–”â–”â–”â–”â–”â–”â–”â–”â–”â–”â–” â–      â—¥â—£
-@echo		 	  ä½œè€…ï¼šç½‘é€šSara å¿ƒæœ¯ä¸æ­£çš„åœ£èŒè€…  äº¤æµQç¾¤:40777485
+@echo.¡¡¡¡¡¡
+@echo       ¨x¨y¨{¨z¨y¨x¨x
+@echo            ¨¨€¨€¨€¨€¨€¨€¨Ž                                  ¨€        ¨
+@echo                ¨‰¨€¨¨‰¨‰¨¨Ž                                ¨€      ¨¨
+@echo                  ¨€        ¨€                                ¨    ¨¨
+@echo                  ¨€¨x¨y¨z¨€¨                                ¨  ¨¨
+@echo            ¨y¨|¨}¨€¨€¨€¨€¨                              ¡ñ¡ñ¨‚¨¨
+@echo                  ¨€¨¨Ž  ¨¨€¨Ž¨¨€¨Ž¨€¨Ž¨€¨¨€¨Ž¨¨€¨Ž¨¨€¨Ž¨€¨
+@echo                  ¨  ¨¨Ž¨€¨z¨€¨€  ¨{¨€¨€¨€¨€¨z¨€¨€¨z¨¨€  ¨€¨€¨Ž
+@echo                  ¨‚    ¨¨€  ¨€¨¨€¨¨€¨¨€¨€  ¨€¨€¨¨Ž¨¨€¨¨„¨¨Ž
+@echo                  ¨ƒ     ¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x ¨„  ¨¨Ž
+@echo                  ¨†              RAGNAROK CRO PATCH          ¨…    ¨¨Ž
+@echo                  ¨‡     ¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨‰ ¨‡      ¨¨Ž
+@echo		 	  ×÷Õß£ºÍøÍ¨Sara ÐÄÊõ²»ÕýµÄÊ¥Ö°Õß  ½»Á÷QÈº:40777485
 @echo.
 @echo.
 @echo.
 @echo.
-@echo æ¬¢è¿Žä½¿ç”¨ã€å¿ƒæœ¯ç‰Œåå…¨å¤§è¡¥ For KL_CROã€‘
-@echo æœ¬ç¨‹åºä¼šè‡ªåŠ¨å°†æ‰€æœ‰æ–‡ä»¶è‡ªåŠ¨æ›´æ–°è‡³æœ€æ–°ç‰ˆæœ¬
-@echo æ¯å‘¨äºŒæ˜†ä»‘æœåŠ¡å™¨ç»´æŠ¤åŽéƒ½è¯·è¿è¡Œä¸€ä¸‹æœ¬æ›´æ–°ç¨‹åºå¦åˆ™æœ‰å¯èƒ½æ— æ³•ç™»é™†
+@echo »¶Ó­Ê¹ÓÃ¡¾ÐÄÊõÅÆÊ®È«´ó²¹ For KL_CRO¡¿
+@echo ±¾³ÌÐò»á×Ô¶¯½«ËùÓÐÎÄ¼þ×Ô¶¯¸üÐÂÖÁ×îÐÂ°æ±¾
+@echo Ã¿ÖÜ¶þÀ¥ÂØ·þÎñÆ÷Î¬»¤ºó¶¼ÇëÔËÐÐÒ»ÏÂ±¾¸üÐÂ³ÌÐò·ñÔòÓÐ¿ÉÄÜÎÞ·¨µÇÂ½
 @echo.
-@echo ===è¾“å…¥'Y'ä»¥ç»§ç»­ è¾“å…¥'N'ä»¥å–æ¶ˆè¿™æ¬¡æ›´æ–°===
+@echo ===ÊäÈë'Y'ÒÔ¼ÌÐø ÊäÈë'N'ÒÔÈ¡ÏûÕâ´Î¸üÐÂ===
 set /p ans=
 if %ans%==n goto exit
 
 
 .\CROPatch_Autoupdate\git.exe pull git://github.com/parkerjj/CROPatch.git -f
-@echo æ›´æ–°æˆåŠŸ.....
-@echo çŽ°åœ¨å¯ä»¥è¿›è¡Œæ¸¸æˆäº†^_^
+@echo ¸üÐÂ³É¹¦.....
+@echo ÏÖÔÚ¿ÉÒÔ½øÐÐÓÎÏ·ÁË^_^
 
 
 pause
@@ -40,6 +40,6 @@ exit
 
 
 :exit
-@echo ===========æœ¬æ¬¡æ›´æ–°å·²å–æ¶ˆ===========
-@echo æ„Ÿè°¢æ‚¨ä½¿ç”¨ã€å¿ƒæœ¯ç‰Œåå…¨å¤§è¡¥ã€‘ å†è§......   T_T
+@echo ===========±¾´Î¸üÐÂÒÑÈ¡Ïû===========
+@echo ¸ÐÐ»ÄúÊ¹ÓÃ¡¾ÐÄÊõÅÆÊ®È«´ó²¹¡¿ ÔÙ¼û......   T_T
 pause
