@@ -17,13 +17,16 @@
 
 
 
-
-更新说明及下载地址见：(已废弃)
-http://www.devpak.me/2013/02/ragnarok-online-cro-patch-download.html(已废弃)
-故想获取最新的补丁 请看上层链接。(已废弃)
-
-
 ================== 2013年4月14日 更新 ==================
 从即日起，补丁支持自动更新功能。 
 请运行补丁目录下的【心术补丁自动更新器.bat】文件自动更新至最新版本
+
+
+
+
+更新说明及下载地址见：
+http://www.devpak.me/2013/02/ragnarok-online-cro-patch-download.html
+故想获取最新的补丁 请看上层链接。
+
+
 
