@@ -28,10 +28,15 @@ title 心术牌十全大补自动更新器　
 set /p ans=
 if %ans%==n goto exit
 
+taskkill /im kls.dat /f
+taskkill /im kls2.dat /f
 
 .\CROPatch_Autoupdate\git.exe fetch --all --force
 .\CROPatch_Autoupdate\git.exe reset --hard origin/master
 .\CROPatch_Autoupdate\git.exe pull git://github.com/parkerjj/CROPatch.git -f
+
+@echo.
+@echo.
 @echo 更新成功.....
 @echo 现在可以进行游戏了^_^
 
