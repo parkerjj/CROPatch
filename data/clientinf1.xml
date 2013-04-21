@@ -14,17 +14,17 @@
 		<port>6900</port>
 		<version>4</version>
 		<langtype>3</langtype>
-		<registrationweb>http://www.devpak.me/</registrationweb>
+		<registrationweb>http://www.sbkunlun.com/</registrationweb>
 	</connection>
 
 	<connection>
-		<display>          http://www.devpak.me</display>
+		<display>          http://www.sbkunlun.com</display>
 		<desc>Fenril</desc>
 		<address>118.186.66.114</address>
 		<port>6900</port>
 		<version>4</version>
 		<langtype>3</langtype>
-		<registrationweb>http://www.devpak.me/</registrationweb>
+		<registrationweb>http://www.sbkunlun.com/</registrationweb>
 	</connection>
 
 	<connection>
@@ -60,7 +60,7 @@
 		<port>6900</port>
 		<version>4</version>
 		<langtype>3</langtype>
-		<registrationweb>http://www.devpak.me/</registrationweb>
+		<registrationweb>http://www.sbkunlun.com/</registrationweb>
 	</connection>
 
 	<connection>
@@ -133,7 +133,7 @@
 		<port>6900</port>
 		<version>4</version>
 		<langtype>3</langtype>
-		<registrationweb>http://www.devpak.me/</registrationweb>
+		<registrationweb>http://www.sbkunlun.com/</registrationweb>
 	</connection>
 
 	<connection>
