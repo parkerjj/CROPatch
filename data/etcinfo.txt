@@ -1,5 +1,5 @@
 loadingscreen#
-4#
+8#
 weather#prontera.rsw#sakura#
 weather#prt_fild08.rsw#sakura#
 //file end 
