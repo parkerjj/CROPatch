@@ -30,7 +30,7 @@ if %ans%==n goto exit
 
 taskkill /im kls.dat /f
 taskkill /im kls2.dat /f
-
+@echo 出现找不到进程kls***为正常现象。请轻抚胸口勿要惊慌。
 .\CROPatch_Autoupdate\git.exe fetch --all --force
 .\CROPatch_Autoupdate\git.exe reset --hard origin/master
 .\CROPatch_Autoupdate\git.exe pull git://github.com/parkerjj/CROPatch.git -f
