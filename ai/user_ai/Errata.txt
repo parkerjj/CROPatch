@@ -1,0 +1,18 @@
+The documentation has not been updated since dev 11. This document describes features since the last documentation update. 
+
+IdleWalkSP: Set IdleWalkSP (default is 80) specify the minimum amount of SP the homun should have before using IdleWalk (since it can't regen SP while moving)
+
+RelativeRoute: Relative Route does not work with Castle Route. 
+
+Autofriending: If you have multiple accounts running on the same computer, and want their homuns to help eachother, friend the players (this should be done by hand, due to race conditions, since friend list is shared by all homuns running from a specific locations - but if you insist on doing it through the game, only have one homun out at a time while friending). AzzyAI will attempt to detect their H_ID/M_ID files and automatically friend their homuns and mercs. To ensure that this behavior works, summon homuns on all accounts, then walk the players off screen of eachother and back. 
+
+AggressiveAutofriend: Set in H_Extra/M_Extra. This will much more aggressively synchronize friending between multiple accounts running on one computer - you do not need to walk off screen, and resummoning homun will not confuse it.
+
+PainkillerFriends: Set to 1 to auto-painkiller friended players. Players will be added to the painkiller list if you manually command the homunculus to use Painkiller on them
+
+PainkillerFriendsSave: Set to 1 if using PainkillerFriends to have homun remember players who you have prescribed painkillers to. 
+
+EleanorDoNotSwitchMode: Set to 1 to never autocast stylechange. 
+
+StickyStandby: New setting - Set to 2 to remember standby status even through relog/resummon/teleport/mapchange. 
+
