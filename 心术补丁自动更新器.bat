@@ -37,7 +37,7 @@ taskkill /im kls2.dat /f
 
 @echo.
 @echo.
-@echo 更新成功.....
+@echo 如果显示 Already up-to-date 则代表更新成功.....
 @echo 现在可以进行游戏了^_^
 
 
