@@ -34,12 +34,11 @@ taskkill /im kls2.dat /f
 .\CROPatch_Autoupdate\git.exe fetch --all --force
 .\CROPatch_Autoupdate\git.exe reset --hard origin/master
 .\CROPatch_Autoupdate\git.exe pull git://github.com/parkerjj/CROPatch.git -f
-
+.\自动更新.exe
 @echo.
 @echo.
-@echo 如果显示 Already up-to-date 则代表更新成功.....
-@echo 现在可以进行游戏了^_^
-
+@echo 因为某些个人原因,心术补丁从13年6月11日起将不再更新.  以后的自动更新采用N大的方法.
+@echo 心术补丁不再由本人维护了. 很抱歉.
 
 pause
 exit
